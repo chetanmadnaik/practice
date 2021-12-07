@@ -1,0 +1,11 @@
+
+M
+java:S1068"+Remove this unused "isAsian" private field.(ıÖó†úÿÿÿÿ8ñèÃÀÕ/
+‡
+java:S4165"eRemove this useless assignment; "isAsian" already holds the assigned value along all execution paths.(ã²ş–ıÿÿÿÿ8ñèÃÀÕ/
+]
+java:S1854";Remove this useless assignment to local variable "isAsian".(ã²ş–ıÿÿÿÿ8ñèÃÀÕ/
+Q
+java:S1656"/Remove or correct this useless self-assignment.(ã²ş–ıÿÿÿÿ8ñèÃÀÕ/
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8úÉ¹ÀÕ/

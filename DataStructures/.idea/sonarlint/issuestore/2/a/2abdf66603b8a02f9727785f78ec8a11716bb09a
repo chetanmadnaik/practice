@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ‚‰
+O
+java:S3516"9Refactor this method to not always return the same value.(Ş€²¤
+W
+java:S1126("AReplace this if-then-else statement by a single return statement.(îøµ®
+Q	java:S125,"<This block of commented-out lines of code should be removed.(ÖòøŸ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘¹¶ß
+>
+java:S1068"(Remove this unused "json" private field.(ø‘òĞ
